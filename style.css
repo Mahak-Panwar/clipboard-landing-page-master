@@ -1,0 +1,19 @@
+.copy{
+  position:relative;
+}
+
+.copy::before{
+  content: "";
+  position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+  
+
+
+}
+.main{
+background-image: url('images/bg-header-desktop.png') ;
+background-repeat: repeat-x;
+}
